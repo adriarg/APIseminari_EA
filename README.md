@@ -1,5 +1,9 @@
 # Prova API
 
+## Referencies
+ChatGPT per subjects_routes (indexació) i materials de l'assignatura, especialment aquest video:
+https://youtu.be/T1QFGwOnQxQ
+
 ## Descripció
 Una API bàsica desenvolupada en Node.js amb TypeScript, utilitzant Express i Mongoose per a la gestió de dades en MongoDB. A més, s'inclou documentació amb Swagger.
 
